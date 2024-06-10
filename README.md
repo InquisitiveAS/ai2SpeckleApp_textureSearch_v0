@@ -1,4 +1,4 @@
-# ai2SpeckleApp:matGen 
+# ai2SpeckleApp:Texture Search
 
 ![image](https://drive.google.com/uc?export=view&id=1WJfsmOxAo_4Xp9vwAxm57CzD5P7SAWsS)
 
