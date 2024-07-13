@@ -1,4 +1,4 @@
-# Getting Started with dallESpeckleMap React App
+# Getting Started with ai2SpeckleApp:Texture Search_v0 React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
